@@ -1,4 +1,4 @@
-# Computer_Organization_and_Architecture# Computer_Organization_and_Architecture
+# Computer_Organization_and_Architecture
 Computer Organization and Architecture Course ( CS331 )
 
 Assignments
